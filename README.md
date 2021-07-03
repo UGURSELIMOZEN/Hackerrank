@@ -1,2 +1,2 @@
 # Hackerrank
-This repository includes all Hackerrank challenge solutions that I solved in category of problem solving , python ,sql and etc.
+This repository includes all Hackerrank challenge solutions that I solved in categories of problem solving , python , sql and etc.
